@@ -60,7 +60,7 @@ def envm(kp, ki):
 		theta_4[i] = theta_dot[i]*dt+theta_4[i-1]
 		vy([i] = vy_dot[i]*dt+vy[i-1]
 		i=i+1
-		fitness -= t*t*abs(e[i]) 
+		fitness -= t*t*abs(e[i])*dt
 	plt.plot(time{0:80000],theta_4[0:80000)
 	return fitness
 
