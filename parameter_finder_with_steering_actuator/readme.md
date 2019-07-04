@@ -15,7 +15,7 @@ ISTAE, overshoot, maximum steering angle
 
 4. Genetic algorithm:
 	https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3
-	http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
+	 http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
 	D. C. Meena, Ambrish Devanshu, Genetic Algorithm Tuned PID Controller for Process Control, 
   International Conference on Inventive Systems and Control (ICISC-2017)
 
